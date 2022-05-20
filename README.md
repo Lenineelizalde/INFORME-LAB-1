@@ -3,9 +3,10 @@
 ## 1.- OBJETIVOS
 ### GENERAL
 - Analizar la ley de Kirchhoff mediante la construcción de un circuito eléctrico mixto para comprend
+
 ### ESPECIFICO
+
 - Analizar y explicar la ley de Kirchhoff para los voltajes como para la corriente. 
-- Demostrar mediante la práctica que se cumple la ley de Kirchhoff para los voltajes y de igual manera que se cumple para la corriente. 
 - Adquirir los conocimientos necesarios para armar un circuito en paralelo, en serie y mixto, y luego de armarlo poder explicar todo su funcionamiento con cada una de las partes. 
 - Aprender a medir el voltaje, la resistencia y la corriente de un circuito eléctrico de manera correcta. 
 
@@ -13,12 +14,11 @@
 
 ![image](https://user-images.githubusercontent.com/105298935/169536253-122a524e-f4bf-4f37-a4e4-7dc5fed77574.png)
 
-## 3.- MATERIALES
+## 3.- MATERIALES Y EXPLICACION DE PROCEDIMIENTO.
+
+### MATERIALES.
 
 ![image](https://user-images.githubusercontent.com/105298935/169551997-ea4dd17b-9aa4-4515-a041-f86cd7d1a0a9.png)
-
-
-## 4.- EXPLICACION DE PROCEDIMIENTO
 
 ### CIRCUITO PROPUESTO
 
