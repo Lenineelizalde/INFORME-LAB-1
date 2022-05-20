@@ -67,16 +67,7 @@ con signo positivo las corrientes que entran al nodo y con signo negativo las qu
 del nodo. Anote los resultados en la tabla 1.3.
 
 Verificación de la LCK. (Tabla 1.3)
-![Uploading image.png…]()
-
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/105298935/169572989-7211a1ee-6c74-47ae-be45-1d892b90f81a.png)
 
 
 ## 5.- VIDEO.
