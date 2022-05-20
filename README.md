@@ -68,5 +68,13 @@ Con el sistema ya armado y comprobado que este funcione correctamente pasamos a 
 
 ## 7.- BIBLIOGRAFIA.
 
+Floyd, T. (2007). Principios de Circuitos Eléctricos octava edicion. México: Pearson Educación.
+
+Salazar, A. (2010). Leyes de voltajes y corrientes de Kirchhoff. Universidad de Los Andes, 1(1), 13–34. http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/02_Leyes_de_Voltajes_y_Corrientes_de_Kirchhoffs.pdf
+
+Electronnica. (20 de Septiembre de 2012). Electronica completa. Obtenido de https://electronicacompleta.com/leyes-de-kirchhoff/?sfw=pass1653059613
+
+
+
 
 
