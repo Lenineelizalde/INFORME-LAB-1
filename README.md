@@ -52,6 +52,7 @@ Con el sistema ya armado y comprobado que este funcione correctamente pasamos a 
 resultados de las mediciones en la tabla 1.1.
 
 Resultados obtenidos de voltaje y corriente, en cada elemento del circuito. (Tabla 1.1)
+![image](https://user-images.githubusercontent.com/105298935/169573399-bb690da0-507a-4068-8b53-4bc092af643f.png)
 
 
 ### 4.2 Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada,
