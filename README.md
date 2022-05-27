@@ -55,6 +55,11 @@ Resultados obtenidos de voltaje y corriente, en cada elemento del circuito. (Tab
 ![image](https://user-images.githubusercontent.com/105298935/169573399-bb690da0-507a-4068-8b53-4bc092af643f.png)
 
 
+### 4.2 Verificación de LVK (Tabla1.2)
+
+![image](https://user-images.githubusercontent.com/105298935/170625169-8b248966-30c7-4f66-9b9b-de8c8e5ae55a.png)
+
+
 ### 4.3 Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando
 con signo positivo las corrientes que entran al nodo y con signo negativo las que salen
 del nodo. Anote los resultados en la tabla 1.3.
