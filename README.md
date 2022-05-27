@@ -57,6 +57,8 @@ Resultados obtenidos de voltaje y corriente, en cada elemento del circuito. (Tab
 
 ### 4.2 Verificación de LVK (Tabla1.2)
 
+Resultados obtenidos del voltaje en cada trayectoria del circuito en este caso tenemos tres trayectorias.
+
 ![image](https://user-images.githubusercontent.com/105298935/170625169-8b248966-30c7-4f66-9b9b-de8c8e5ae55a.png)
 
 
